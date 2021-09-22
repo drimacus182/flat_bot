@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 
 ## Як користуватись 
-Створити бота, отримати токен.
+Створити бота за допомогою tg://resolve?domain=BotFather, отримати токен.
 
 Перейменувати ```config-example.py``` в ```config.py``` і заповнити налаштування
 
